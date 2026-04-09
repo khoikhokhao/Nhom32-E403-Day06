@@ -24,6 +24,6 @@ Trợ lý AI Agent hỗ trợ khách hàng tra cứu thông tin xe, chính sách
 |-----------|------|--------|
 | **Ngô Quang Tăng** | Thiết kế luồng UX & AI Canvas | `spec-final.md` (Phần 1, 2), `demo-slides.pdf` |
 | **Vũ Đức Minh** | Lên kịch bản Fallback & Kịch bản thuyết trình | Kịch bản Demo 5 phút (`demo-script.md`) |
-| **Trần Sỹ Minh Quân** | Eval Framework, Quản trị rủi ro | `spec-final.md` (Phần 4: Failure Modes) |
+| **Trần Sỹ Minh Quân** | Eval Framework, Quản trị rủi ro, Crawl Data | `spec-final.md` (Phần 4: Failure Modes) |
 | **Nguyễn Thế Anh** | Phân tích Business & Metrics | `spec-final.md` (Phần 3, 5: Eval Metrics, ROI) |
 | **Phạm Minh Khôi** | Technical PM & Lập trình AI Agent MVP | Code `app.py`, `vinfast_kb.py`, `data.json`, `prototype-readme.md` |
