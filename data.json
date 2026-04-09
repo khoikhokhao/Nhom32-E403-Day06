@@ -1,0 +1,419 @@
+{
+  "updatedAt": "2026-04-09",
+  "documents": [
+    {
+      "id": "home-vf5",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf5", "price", "range", "budget", "a-suv"],
+      "snippet": "VF 5 | Dòng xe A-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 326,4 km (NEDC) | Giá từ 529.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf6",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf6", "price", "range", "budget", "b-suv"],
+      "snippet": "VF 6 | Dòng xe B-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 480 km (NEDC) | Giá từ 689.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf7",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf7", "price", "range", "budget", "c-suv"],
+      "snippet": "VF 7 | Dòng xe C-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 496 km | Giá từ 789.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "battery-stop-rental",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["thuê pin", "battery rental", "battery subscription", "battery notice"],
+      "snippet": "Kể từ ngày 01/03/2025, VinFast dừng dịch vụ cho thuê pin Ô tô điện. Khách hàng đang sử dụng dịch vụ thuê pin có thể chuyển sang hình thức mua pin hoặc tiếp tục sử dụng dịch vụ thuê pin theo nhu cầu.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-rate",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["sạc", "trạm sạc", "kwh", "charging rate", "public charging"],
+      "snippet": "Đơn giá sạc ô tô điện và xe máy điện tại trạm sạc công cộng là 3.858 VNĐ/kWh (áp dụng từ 19/03/2024). Phí sử dụng dịch vụ trạm sạc bổ sung: miễn phí phút 1-10, 1.000 đồng/phút phút 11-60, 2.000 đồng/phút phút 61-120, 4.000 đồng/phút từ phút 121 trở đi.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-hardware",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["sạc tại nhà", "ac 7.4kw", "3.5kw", "2.2kw", "home charger"],
+      "snippet": "VinFast cung cấp đa dạng giải pháp sạc để đáp ứng nhu cầu sử dụng của Khách hàng, gồm bộ sạc treo tường AC 7,4 kW, bộ sạc theo xe 3,5 kW và bộ sạc di động 2,2 kW.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "safety-battery-rules",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "safety",
+      "tags": ["an toàn", "pin", "cảnh báo", "sửa chữa", "tai nạn"],
+      "snippet": "Quy định sử dụng pin nêu rõ không tự ý tháo rời, sửa chữa hoặc thay thế các bộ phận, dây cáp hoặc đầu nối điện áp cao; không tự ý can thiệp hoặc cập nhật phần mềm trái phép; nếu xe gặp tai nạn có khả năng ảnh hưởng đến pin thì cần yêu cầu xưởng dịch vụ kiểm tra tổng quát hệ thống pin.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-car-standard",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["bảo hành", "ô tô", "vf5", "vf6", "vf7", "vf8", "vf9"],
+      "snippet": "Xe sử dụng điều kiện tiêu chuẩn: VF 7, VF 8, VF 9 được bảo hành 10 năm hoặc 200.000 km; VF 3, VF 5, VF 6, VF e34, VF Minio Green, VF Nerio Green, VF Herio Green, VF Limo, VF Limo Green được bảo hành 7 năm hoặc 160.000 km.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-car-commercial",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["dịch vụ thương mại", "taxi", "grab", "bảo hành xe"],
+      "snippet": "Xe đang hoặc đã từng sử dụng cho hoạt động dịch vụ thương mại: VF 3, VF 7, VF 8, VF 9 được bảo hành 3 năm hoặc 100.000 km.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "service-booking-form",
+      "sourceTitle": "VinFast Service Booking",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-lich-dich-vu.html",
+      "topic": "service",
+      "tags": ["đặt lịch", "bảo dưỡng", "sửa chữa", "xưởng dịch vụ", "booking"],
+      "snippet": "Form đặt lịch dịch vụ yêu cầu Họ tên, Số điện thoại, Email, Mẫu xe, Số Km, Biển số xe, Dịch vụ, Địa điểm, Thời gian và cho phép tải ảnh lên.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "service-network",
+      "sourceTitle": "VinFast Showroom & Charging Network",
+      "url": "https://vinfastauto.com/vn_vi/tim-kiem-showroom-tram-sac",
+      "topic": "service",
+      "tags": ["showroom", "trạm sạc", "xưởng dịch vụ", "tủ đổi pin"],
+      "snippet": "Hệ thống hỗ trợ tìm Showroom ô tô, Showroom xe máy điện, xưởng dịch vụ ô tô, xưởng dịch vụ xe máy điện, trạm sạc ô tô điện, trạm sạc xe máy điện và tủ đổi pin.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "about-company",
+      "sourceTitle": "About VinFast",
+      "url": "https://vinfastauto.com/vn_vi/ve-chung-toi",
+      "topic": "about",
+      "tags": ["tầm nhìn", "sứ mệnh", "giá trị cốt lõi", "company"],
+      "snippet": "VinFast hướng tới trở thành thương hiệu xe điện thông minh thúc đẩy cuộc cách mạng xe điện toàn cầu; sứ mệnh vì một tương lai xanh cho mọi người; triết lý đặt khách hàng làm trọng tâm.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "contact-hotline",
+      "sourceTitle": "VinFast Footer Contact",
+      "url": "https://vinfastauto.com/",
+      "topic": "service",
+      "tags": ["hotline", "support", "contact", "escalation"],
+      "snippet": "Dịch vụ khách hàng: 1900 23 23 89 - Nhánh 1. Email hỗ trợ: support.vn@vinfastauto.com. Liên hệ tư vấn trạm sạc và thiết bị sạc: hotline 1900 23 23 89, bấm phím 5.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf8",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf8", "price", "range", "d-suv"],
+      "snippet": "VF 8 | Dòng xe D-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 471 km | Giá từ 1.019.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf9",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf9", "price", "range", "e-suv"],
+      "snippet": "VF 9 | Dòng xe E-SUV | Số chỗ ngồi 6-7 chỗ | Quãng đường lên tới 626 km | Giá từ 1.499.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf3",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf3", "price", "range", "minicar"],
+      "snippet": "VF 3 | Dòng xe MiniCar | Số chỗ ngồi 4 chỗ | Quãng đường lên tới 210 km (NEDC) | Giá từ 302.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-minio-green",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["minio green", "price", "range", "urban"],
+      "snippet": "Minio Green | Dòng xe MiniCar | Số chỗ ngồi 4 chỗ | Quãng đường lên tới 170 km (NEDC) | Giá từ 269.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-limo-green",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["limo green", "price", "range", "mpv"],
+      "snippet": "Limo Green | Dòng xe MPV | Số chỗ ngồi 7 chỗ | Quãng đường lên tới 450 km (NEDC) | Giá từ 749.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-ecvan",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["ec van", "price", "range", "van"],
+      "snippet": "EC Van | Dòng xe VAN | Số chỗ ngồi 2 chỗ | Quãng đường lên tới 150 km | Giá từ 285.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf6-variants-pricing",
+      "sourceTitle": "VinFast VF 6",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-coc-xe-dien-vf6.html",
+      "topic": "buying",
+      "tags": ["vf6", "eco", "plus", "price"],
+      "snippet": "VF 6 Eco giá 689.000.000 VNĐ và VF 6 Plus giá 745.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf6-specs-2026",
+      "sourceTitle": "VinFast VF 6",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-coc-xe-dien-vf6.html",
+      "topic": "buying",
+      "tags": ["vf6", "range", "power", "torque"],
+      "snippet": "Thông số VF 6: bản Eco quãng đường 485 km/lần sạc, công suất 130 kW/174 hp, mô men xoắn 250 Nm; bản Plus quãng đường 460 km/lần sạc, công suất 150 kW/201 hp, mô men xoắn 310 Nm.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf7-variants-pricing",
+      "sourceTitle": "VinFast VF 7",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-coc-xe-dien-vf7.html",
+      "topic": "buying",
+      "tags": ["vf7", "eco", "plus", "price"],
+      "snippet": "VF 7 Eco giá 789.000.000 VNĐ; VF 7 Plus giá 889.000.000 VNĐ; VF 7 Plus trần kính toàn cảnh giá 909.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf8-variants-pricing",
+      "sourceTitle": "VinFast VF 8",
+      "url": "https://shop.vinfastauto.com/vn_vi/car-vf8.html",
+      "topic": "buying",
+      "tags": ["vf8", "eco", "plus", "price"],
+      "snippet": "VF 8 Eco giá 1.019.000.000 VNĐ và VF 8 Plus giá 1.199.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf8-performance-range",
+      "sourceTitle": "VinFast VF 8",
+      "url": "https://shop.vinfastauto.com/vn_vi/car-vf8.html",
+      "topic": "buying",
+      "tags": ["vf8", "range", "performance", "charging"],
+      "snippet": "VF 8 công bố quãng đường tới 562 km, tăng tốc 0-100 km/h trong 5,58 giây, công suất 402 hp và sạc nhanh 10-70% trong 31 phút.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf9-variants-pricing",
+      "sourceTitle": "VinFast VF 9",
+      "url": "https://shop.vinfastauto.com/vn_vi/car-vf9.html",
+      "topic": "buying",
+      "tags": ["vf9", "eco", "plus", "price"],
+      "snippet": "VF 9 Eco giá 1.499.000.000 VNĐ và VF 9 Plus giá 1.699.000.000 VNĐ (giá đã gồm VAT, chưa gồm tùy chọn ghế cơ trưởng).",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf9-main-specs",
+      "sourceTitle": "VinFast VF 9",
+      "url": "https://shop.vinfastauto.com/vn_vi/car-vf9.html",
+      "topic": "buying",
+      "tags": ["vf9", "range", "power", "torque"],
+      "snippet": "VF 9 công bố vận hành 402 hp/620 Nm, bảo hành xe 10 năm hoặc 200.000 km, quãng đường di chuyển/lần sạc đầy 626 km (tiêu chuẩn WLTP, bản Eco pin CATL).",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf3-variants-pricing",
+      "sourceTitle": "VinFast VF 3",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-coc-xe-dien-vf3.html",
+      "topic": "buying",
+      "tags": ["vf3", "eco", "plus", "price"],
+      "snippet": "VF 3 Eco giá 302.000.000 VNĐ, VF 3 Plus giá 315.000.000 VNĐ; mức đặt cọc được công bố là 15.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "vf3-specs",
+      "sourceTitle": "VinFast VF 3",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-coc-xe-dien-vf3.html",
+      "topic": "buying",
+      "tags": ["vf3", "specs", "range", "charging"],
+      "snippet": "Thông số VF 3: công suất tối đa 30 kW, mô men xoắn 110 Nm, quãng đường 215 km/lần sạc đầy, thời gian sạc nhanh nhất 36 phút (10%-70%), dẫn động RWD/cầu sau.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "mpv7-specs",
+      "sourceTitle": "VinFast VF MPV 7",
+      "url": "https://vinfastauto.com/vn_vi/dat-coc-xe-vf-mpv7",
+      "topic": "buying",
+      "tags": ["vf mpv 7", "price", "range", "specs"],
+      "snippet": "VF MPV 7 có giá bán 819.000.000 VNĐ; kích thước 4740 x 1872 x 1734 mm; công suất tối đa 150 kW; mô men xoắn 280 Nm; quãng đường 450 km/lần sạc đầy (NEDC); sạc nhanh 10%-70% trong 30 phút.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "ecvan-specs",
+      "sourceTitle": "VinFast EC Van",
+      "url": "https://shop.vinfastauto.com/vn_vi/vinfast-ecvan.html",
+      "topic": "buying",
+      "tags": ["ec van", "cargo", "specs", "charging"],
+      "snippet": "EC Van giá niêm yết 285.000.000 VNĐ (giá đã kèm pin); khoang hành lý 2,6 m3; tải trọng 650 kg; quãng đường 175 km/sạc đầy (NEDC); thời gian nạp pin nhanh nhất 42 phút (10%-70%).",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "minio-specs",
+      "sourceTitle": "VinFast Minio Green",
+      "url": "https://vinfastauto.com/vn_vi/minio-green",
+      "topic": "buying",
+      "tags": ["minio green", "price", "range", "specs"],
+      "snippet": "Minio Green công bố giá xe kèm pin từ 269.000.000 VNĐ, quãng đường 210 km/lần sạc đầy (NEDC), công suất tối đa 30 kW, mô men xoắn cực đại 65 Nm và dung lượng pin khả dụng 18,3 kWh.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "limo-specs",
+      "sourceTitle": "VinFast Limo Green",
+      "url": "https://vinfastauto.com/vn_vi/limo-green",
+      "topic": "buying",
+      "tags": ["limo green", "price", "range", "specs"],
+      "snippet": "Limo Green công bố giá kèm pin 749.000.000 VNĐ; quãng đường chạy 450 km/lần sạc đầy (NEDC); công suất tối đa 150 kW; mô men xoắn 280 Nm; dung lượng pin khả dụng 60,13 kWh; sạc nhanh 10%-70% trong 30 phút.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "herio-specs",
+      "sourceTitle": "VinFast Herio Green",
+      "url": "https://vinfastauto.com/vn_vi/herio-green",
+      "topic": "buying",
+      "tags": ["herio green", "range", "specs", "service car"],
+      "snippet": "Herio Green công bố công suất tối đa 100 kW, quãng đường chạy 326 km/lần sạc đầy (NEDC), thời gian sạc 33 phút (10%-70%), dung lượng pin khả dụng 37,23 kWh và dẫn động FWD/cầu trước.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "nerio-specs",
+      "sourceTitle": "VinFast Nerio Green",
+      "url": "https://shop.vinfastauto.com/vn_vi/nerio-green.html",
+      "topic": "buying",
+      "tags": ["nerio green", "range", "specs", "b-suv"],
+      "snippet": "Nerio Green có thông số công bố: công suất tối đa 110 kW, mô men xoắn 242 Nm, quãng đường 318,6 km/lần sạc đầy (NEDC), pin 41,9 kWh, sạc nhanh DC tối đa 60 kW và thời gian nạp pin 27 phút (10%-70%).",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-led-status",
+      "sourceTitle": "VinFast Charging Guide",
+      "url": "https://vinfastauto.com/huong-dan-sac-pin-o-to-dien-vinfast",
+      "topic": "charging",
+      "tags": ["led", "charging station", "status", "guideline"],
+      "snippet": "Trạng thái đèn LED trụ sạc: xanh lá là trụ khả dụng/sẵn sàng sạc, xanh da trời là đang trong phiên sạc, đỏ hoặc không sáng là trụ không khả dụng.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-safety-temperature",
+      "sourceTitle": "VinFast Charging Guide",
+      "url": "https://vinfastauto.com/huong-dan-sac-pin-o-to-dien-vinfast",
+      "topic": "safety",
+      "tags": ["charging", "temperature", "safety", "battery"],
+      "snippet": "Khi nhiệt độ pin trên 60°C, VinFast khuyến cáo chờ 15-30 phút để pin hạ dưới 45°C rồi sạc; hệ thống sẽ không nhận sạc khi pin nóng trên 55°C.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-app-payment",
+      "sourceTitle": "VinFast Charging Guide",
+      "url": "https://vinfastauto.com/huong-dan-sac-pin-o-to-dien-vinfast",
+      "topic": "charging",
+      "tags": ["app", "payment", "invoice", "charging history"],
+      "snippet": "Ứng dụng VinFast hỗ trợ tra cứu lịch sử sạc và thanh toán phí sạc: vào VinFast ID, chọn Danh sách hóa đơn, chọn hóa đơn chưa thanh toán và xác nhận thanh toán.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "privacy-policy-effective-date",
+      "sourceTitle": "VinFast Personal Data Protection Policy",
+      "url": "https://vinfastauto.com/vn_vi/privacy-policy",
+      "topic": "policy",
+      "tags": ["privacy", "personal data", "effective date"],
+      "snippet": "Chính sách bảo vệ dữ liệu cá nhân của VinFast nêu thời điểm áp dụng từ ngày 29/04/2025.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "privacy-policy-data-rights",
+      "sourceTitle": "VinFast Personal Data Protection Policy",
+      "url": "https://vinfastauto.com/vn_vi/privacy-policy",
+      "topic": "policy",
+      "tags": ["privacy", "data subject rights", "consent", "delete data"],
+      "snippet": "Chính sách nêu các quyền của chủ thể dữ liệu như quyền biết, quyền đồng ý/không đồng ý, quyền truy cập/chỉnh sửa, quyền rút lại đồng ý, quyền xóa dữ liệu, quyền phản đối xử lý và quyền khiếu nại/khởi kiện.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "privacy-policy-no-sale",
+      "sourceTitle": "VinFast Personal Data Protection Policy",
+      "url": "https://vinfastauto.com/vn_vi/privacy-policy",
+      "topic": "policy",
+      "tags": ["privacy", "data transfer", "no sale"],
+      "snippet": "Chính sách ghi rõ VinFast không bán dữ liệu cá nhân cho bất kỳ bên nào; việc chia sẻ dữ liệu được thực hiện theo phạm vi pháp luật và mục đích nêu trong chính sách.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "legal-hub-documents",
+      "sourceTitle": "VinFast Legal Terms",
+      "url": "https://vinfastauto.com/dieu-khoan-phap-ly",
+      "topic": "policy",
+      "tags": ["legal", "deposit terms", "cookies", "payment security"],
+      "snippet": "Trang Điều khoản, Pháp lý tổng hợp các văn bản như Điều kiện sử dụng cookies, Điều khoản đặt cọc, Chính sách vận chuyển, Chính sách bảo mật thanh toán, Điều khoản và điều kiện, cùng Chính sách bảo vệ dữ liệu cá nhân.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-high-voltage-battery",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["battery warranty", "high voltage battery", "vf7", "vf8", "vf9"],
+      "snippet": "Pin cao áp mua theo xe mới: VF 7, VF 8, VF 9 bảo hành 10 năm hoặc 200.000 km; VF 3, VF 5, VF 6, VF Minio Green, VF Herio Green, VF Limo, VF e34, VF Nerio Green, VF Limo Green bảo hành 8 năm hoặc 160.000 km.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-ecvan",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["ec van", "warranty", "commercial"],
+      "snippet": "Đối với VF EC Van, thời hạn bảo hành xe được công bố là 5 năm hoặc 130.000 km (tùy điều kiện nào đến trước).",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-escooter-lfp",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["xe máy điện", "lfp", "battery warranty"],
+      "snippet": "Với xe máy điện dùng pin LFP, VinFast công bố bảo hành xe 6 năm không giới hạn km và bảo hành pin tới 8 năm không giới hạn km.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "escooter-viper-specs",
+      "sourceTitle": "VinFast Viper",
+      "url": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-viper",
+      "topic": "buying",
+      "tags": ["viper", "e-scooter", "price", "range"],
+      "snippet": "Xe máy điện Viper công bố tốc độ tối đa 70 km/h, quãng đường ~156 km/1 lần sạc, công suất tối đa 3000 W; giá kèm pin 45.500.000 VNĐ và giá không kèm pin 39.900.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "escooter-amio-specs",
+      "sourceTitle": "VinFast Amio",
+      "url": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-amio",
+      "topic": "buying",
+      "tags": ["amio", "e-scooter", "price", "student"],
+      "snippet": "Xe máy điện Amio công bố tốc độ ~30 km/h, quãng đường ~65 km/1 lần sạc, công suất tối đa ~800 W, giá kèm pin 13.900.000 VNĐ; tích hợp bàn đạp linh hoạt và phù hợp đối tượng học sinh.",
+      "updatedAt": "2026-04-09"
+    }
+  ]
+}
