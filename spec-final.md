@@ -103,6 +103,6 @@
 ### Phân công thực hiện Hackathon
 - **Ngô Quang Tăng:** AI Canvas, User Stories (4 Paths), thiết kế Slide Pitching.
 - **Vũ Đức Minh:** Kịch bản Fallback, nội dung Kịch bản thuyết trình (Demo Script).
-- **Trần Sỹ Minh Quân:** Eval Framework, rà soát Failure Modes & Mitigation.
+- **Trần Sỹ Minh Quân:** Eval Framework, rà soát Failure Modes & Mitigation, tạo script crawl data.
 - **Nguyễn Thế Anh:** Tính toán ROI 3 kịch bản, xác định Eval Metrics.
 - **Phạm Minh Khôi:** Lập trình hệ thống MVP (Xây dựng KB RAG, tích hợp Agent Tool Calling), tổng hợp Mini Spec.
